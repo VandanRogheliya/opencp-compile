@@ -1,6 +1,6 @@
 {
   "name": "opencp-compile",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "Compile and run programs of various programming languages.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/VandanRogheliya/opencp-compile#readme",
   "author": "Vandan Rogheliya",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.22.0",
     "@typescript-eslint/parser": "^4.22.0",
