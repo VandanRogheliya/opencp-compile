@@ -1,6 +1,6 @@
 {
   "name": "opencp-compile",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Compile and run programs of various programming languages.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -13,6 +13,24 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint \"**/*.ts\""
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VandanRogheliya/opencp-compile.git"
+  },
+  "keywords": [
+    "compile code",
+    "compile c++",
+    "compile c",
+    "compile java",
+    "compile javascript",
+    "compile and run",
+    "time limit",
+    "memory limit"
+  ],
+  "bugs": {
+    "url": "https://github.com/VandanRogheliya/opencp-compile/issues"
+  },
+  "homepage": "https://github.com/VandanRogheliya/opencp-compile#readme",
   "author": "Vandan Rogheliya",
   "license": "ISC",
   "devDependencies": {
