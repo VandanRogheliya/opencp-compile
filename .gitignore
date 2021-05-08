@@ -2,3 +2,5 @@ dist
 node_modules
 .vscode/
 testPackage.ts
+*.cpp
+sample-code

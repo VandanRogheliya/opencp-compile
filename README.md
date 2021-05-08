@@ -1,1 +1,1 @@
-### OpenCP Compile Package
+### OpenCP Compile NPM Package
